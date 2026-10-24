@@ -4,7 +4,7 @@ title: Виноград
 lang: ru
 ---
 
-# Виноград
+# Молодёжный хор Виноград
 
 <img src="{{ '/images/rozhdestvo-v-tatianinskom.jpg' | relative_url }}" alt="Рождество в Татианинском" class="album-cover">
 
