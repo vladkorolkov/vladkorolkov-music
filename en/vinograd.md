@@ -4,7 +4,7 @@ title: Vinograd
 lang: en
 ---
 
-# Vinograd
+# Youth Choir Vinograd
 
 <img src="{{ '/images/rozhdestvo-v-tatianinskom.jpg' | relative_url }}" alt="Christmas at Tatianinsky" class="album-cover">
 
