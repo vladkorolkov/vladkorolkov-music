@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.lang | default: 'ru' }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,10 +12,33 @@
       <img class="photo" src="https://avatars.githubusercontent.com/u/72408636?v=4" alt="Vlad Korolkov" width="80" height="80">
       <nav>
         <ul class="menu">
-          <li><a href="{{ '/' | relative_url }}">Home</a></li>
-          <li><a href="{{ '/about.html' | relative_url }}">About</a></li>
-          <li><a href="{{ '/music.html' | relative_url }}">Music</a></li>
-          <li><a href="{{ '/contact.html' | relative_url }}">Contact</a></li>
+          {% assign is_en = false %}
+          {% if page.path contains 'en/' or page.lang == 'en' %}{% assign is_en = true %}{% endif %}
+          
+          {% if is_en %}
+            <li><a href="{{ '/en/new-album.html' | relative_url }}">New Album</a></li>
+            <li><a href="{{ '/en/' | relative_url }}">Music</a></li>
+            <li><a href="{{ '/en/video.html' | relative_url }}">Video</a></li>
+            <li><a href="{{ '/en/bio.html' | relative_url }}">Bio</a></li>
+            <li><a href="{{ '/en/contacts.html' | relative_url }}">Contact</a></li>
+            <li><a href="{{ '/en/weelade.html' | relative_url }}">Weelade</a></li>
+          {% else %}
+            <li><a href="{{ '/new-album.html' | relative_url }}">Новый альбом</a></li>
+            <li><a href="{{ '/' | relative_url }}">Музыка</a></li>
+            <li><a href="{{ '/video.html' | relative_url }}">Видео</a></li>
+            <li><a href="{{ '/bio.html' | relative_url }}">Био</a></li>
+            <li><a href="{{ '/contacts.html' | relative_url }}">Контакты</a></li>
+            <li><a href="{{ '/weelade.html' | relative_url }}">Weelade</a></li>
+          {% endif %}
+        </ul>
+        <ul class="menu lang-switch">
+          {% if is_en %}
+            <li><a href="{{ page.url | replace: '/en/', '/' | relative_url }}">Русский</a></li>
+            <li class="selected"><a href="#">English</a></li>
+          {% else %}
+            <li class="selected"><a href="#">Русский</a></li>
+            <li><a href="{{ '/en' | append: page.url | relative_url }}">English</a></li>
+          {% endif %}
         </ul>
       </nav>
     </header>
