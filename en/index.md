@@ -20,13 +20,13 @@ Improvisational mix of a priest’s sermon and Photek’s drum’n’bass.
 Smart, sharp and cutting rap. The guitar parts here are mine.  
 <a href="https://vk.ru/music/playlist/-209379412_9_35078983c72474559c" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/42072488" class="external" target="_blank" rel="noopener">Yandex Music</a> | <a href="https://open.spotify.com/album/3nPQXmkWmi8KSwPyAceAZd" class="external" target="_blank" rel="noopener">Spotify</a>
 
-<img src="https://placehold.co/200x200/1b1212/e8e3e3?text=HOLD+ME+TIGHT" alt="Robert Elderson — HOLD ME TIGHT" class="album-cover">
+<img src="https://i.scdn.co/image/ab67616d00001e02fb083e7fc8129ff490e1a04e" alt="Robert Elderson — HOLD ME TIGHT" class="album-cover">
 
 **Robert Elderson — HOLD ME TIGHT** [2024]  
 Driving into the sunset! I play the guitars.  
 <a href="https://vk.ru/music/playlist/-2000775941_20775941_e0d7ab54f4eb09cec6" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://open.spotify.com/album/2AaaYZLGr0ZMECdIjqtJp7" class="external" target="_blank" rel="noopener">Spotify</a>
 
-<img src="https://placehold.co/200x200/1b1212/e8e3e3?text=TAKE+ME+BACK" alt="Robert Elderson — TAKE ME BACK" class="album-cover">
+<img src="https://i.scdn.co/image/ab67616d00001e02a350c182b6a47753cda9e127" alt="Robert Elderson — TAKE ME BACK" class="album-cover">
 
 **Robert Elderson — TAKE ME BACK** [2024]  
 A bright track, I play the guitars.  
