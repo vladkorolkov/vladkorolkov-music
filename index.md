@@ -1,22 +1,9 @@
 ---
 layout: default
-title: Home
+title: Музыка
+lang: ru
 ---
 
-# Lorem Ipsum
+# Музыка
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-## Dolor Sit Amet
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### Sed Ut Perspiciatis
-
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
-
-- Neque porro quisquam est
-- Qui dolorem ipsum quia dolor
-- Sit amet, consectetur, adipisci velit
-
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
+Содержимое будет добавлено позже.
