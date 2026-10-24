@@ -18,31 +18,31 @@ lang: ru
 
 **ХОЛОТРОПНЫЙ — Сообщение** [2026]  
 Умный, хлёсткий и острый рэп. Здесь гитарные партии — мои.  
-<a href="https://vk.ru/music/playlist/-209379412_9_35078983c72474559c" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/42072488" class="external" target="_blank" rel="noopener">Yandex Music</a>
+<a href="https://vk.ru/music/playlist/-209379412_9_35078983c72474559c" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/42072488" class="external" target="_blank" rel="noopener">Yandex Music</a> | <a href="https://open.spotify.com/album/3nPQXmkWmi8KSwPyAceAZd" class="external" target="_blank" rel="noopener">Spotify</a>
 
 <img src="https://placehold.co/200x200/1b1212/e8e3e3?text=HOLD+ME+TIGHT" alt="Robert Elderson — HOLD ME TIGHT" class="album-cover">
 
 **Robert Elderson — HOLD ME TIGHT** [2024]  
 Ехать в закат! Играю на гитарах.  
-<a href="https://vk.ru/music/playlist/-2000775941_20775941_e0d7ab54f4eb09cec6" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://open.spotify.com/track/6sLAkW2rLvZb2OZ29yzbY8?si=67fa8d5d53104189" class="external" target="_blank" rel="noopener">Spotify</a>
+<a href="https://vk.ru/music/playlist/-2000775941_20775941_e0d7ab54f4eb09cec6" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://open.spotify.com/album/2AaaYZLGr0ZMECdIjqtJp7" class="external" target="_blank" rel="noopener">Spotify</a>
 
 <img src="https://placehold.co/200x200/1b1212/e8e3e3?text=TAKE+ME+BACK" alt="Robert Elderson — TAKE ME BACK" class="album-cover">
 
 **Robert Elderson — TAKE ME BACK** [2024]  
 Светлый трек, играю на гитарках.  
-<a href="https://vk.ru/music/playlist/-2000579784_21579784_44eb13c23727452ea8" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://open.spotify.com/track/6glf8D7YaLalBXZzCpLdhP?si=480c91e1ae994571" class="external" target="_blank" rel="noopener">Spotify</a>
+<a href="https://vk.ru/music/playlist/-2000579784_21579784_44eb13c23727452ea8" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://open.spotify.com/album/75Q0mf7t31UuoZ4QYuEhxO" class="external" target="_blank" rel="noopener">Spotify</a>
 
 <img src="https://avatars.yandex.net/get-music-content/5413882/c992b0db.a.23702202-1/m200x200?webp=false" alt="Оксана Ференчук — К тебе" class="album-cover">
 
 **Оксана Ференчук — К тебе** [2022]  
 Со-композитор и исполнитель в чувственном и одновременно задумчивом треке.  
-<a href="https://vk.com/audio474499227_456723470_993d888696df231a3e" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/23702202" class="external" target="_blank" rel="noopener">Yandex Music</a>
+<a href="https://vk.com/audio474499227_456723470_993d888696df231a3e" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/23702202" class="external" target="_blank" rel="noopener">Yandex Music</a> | <a href="https://open.spotify.com/album/0CTddtUqkquja5BjPlhNHx" class="external" target="_blank" rel="noopener">Spotify</a>
 
 <img src="https://avatars.yandex.net/get-music-content/10126140/b321b358.a.32210444-1/m200x200?webp=false" alt="Оксана Ференчук — В космос как к себе домой" class="album-cover">
 
 **Оксана Ференчук — В космос как к себе домой** [2021]  
 Чуткий, нежный авторский джаз с элементами фолка. Играю везде на гитаре тут. Записывали в Петербурге.  
-<a href="https://vk.com/music/album/-2000337874_21337874_2a55adb327c479e6fb" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/32210444" class="external" target="_blank" rel="noopener">Yandex Music</a>
+<a href="https://vk.com/music/album/-2000337874_21337874_2a55adb327c479e6fb" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/32210444" class="external" target="_blank" rel="noopener">Yandex Music</a> | <a href="https://open.spotify.com/album/046vaHjXse3Q53OakSHUGV" class="external" target="_blank" rel="noopener">Spotify</a>
 
 <img src="https://i.okcdn.ru/i?r=BYChNGnC5ICCFFD3u1L5CYeSJPF4xkqGHD3HM0WbfisjsF-DHMlYTZZj9X9n7_3JSz4hU9waH8HEzOzNZ0Ya4NXSnfNxzJ993E2FARDdAQ7E_fFqYi4QWrMxFC2jt46XC1hc0OtUka_bQleyXqRoXKw3QPedqknp-yf5vXnWzu0unZ0tBqAi_0z9VXL2CneYOLz7u6rFSgJerz4NmszbzUDGHA" alt="Даниил Колесник — На Глубину" class="album-cover">
 
@@ -54,7 +54,7 @@ lang: ru
 
 **Ph.Deep, Weelade — Diving In Microcosm** [2020]  
 Спонтанный драм-н-бейс альбом совместно с писателем, философом и музыкантом — Алексеем Соловьёвым.  
-<a href="https://vk.com/music/album/-2000585675_8585675_297a71552384a3fa7d" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/11977628" class="external" target="_blank" rel="noopener">Yandex Music</a>
+<a href="https://vk.com/music/album/-2000585675_8585675_297a71552384a3fa7d" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/11977628" class="external" target="_blank" rel="noopener">Yandex Music</a> | <a href="https://open.spotify.com/album/6wfPOKib2OnfqSNmdpiVb9" class="external" target="_blank" rel="noopener">Spotify</a>
 
 <img src="https://avatars.yandex.net/get-music-content/118603/84d63361.a.8255938-1/m200x200?webp=false" alt="Катя Королькова — Лёгкие мысли" class="album-cover">
 
@@ -66,7 +66,7 @@ lang: ru
 
 **Славия — I** [2019]  
 Экспериментальный фолк — народная музыка, немного fusion/jazz. Почти полностью мои аранжировки, а также работа в качестве саунд-продюсера.  
-<a href="https://vk.com/music/album/-2000157932_4157932_f1e8bd2f473532e480" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/6535057" class="external" target="_blank" rel="noopener">Yandex Music</a>
+<a href="https://vk.com/music/album/-2000157932_4157932_f1e8bd2f473532e480" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/6535057" class="external" target="_blank" rel="noopener">Yandex Music</a> | <a href="https://open.spotify.com/album/33zRxHCkfRUnDNzhUG68Q1" class="external" target="_blank" rel="noopener">Spotify</a>
 
 <img src="https://sun9-88.userapi.com/s/v1/if1/QpGIUpVty9sUak_8Fr7M87FZpbRH3X9Y9lYbKX5lJgP8ZQteES76wLxnhaStO3_1NTI4XeUu.jpg?size=200x200&quality=96&crop=0,151,1444,1444&ava=1" alt="Фонтан, ДГПБ — live" class="album-cover">
 
