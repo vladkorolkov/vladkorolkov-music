@@ -6,7 +6,7 @@ lang: en
 
 # Vinograd
 
-<img src="https://vladkorolkov-music.ru/images/rozhdestvo-v-tatianinskom.jpg" alt="Christmas at Tatianinsky" class="album-cover">
+<img src="/images/rozhdestvo-v-tatianinskom.jpg" alt="Christmas at Tatianinsky" class="album-cover">
 
 <a href="https://vk.ru/music/playlist/33793035_53" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/35102998?utm_source=web&utm_medium=copy_link" class="external" target="_blank" rel="noopener">Yandex Music</a> | <a href="https://open.spotify.com/album/2AM7As0oK74IpGySG6Mn4y?si=r53_uzGlRAaFydsHmPxv3w" class="external" target="_blank" rel="noopener">Spotify</a>
 
@@ -40,7 +40,7 @@ The album can be listened to wherever you listen to music.
 
 ---
 
-<img src="https://vladkorolkov-music.ru/images/paskha-v-tatianinskom.jpg" alt="Easter at Tatianinsky" class="album-cover">
+<img src="/images/paskha-v-tatianinskom.jpg" alt="Easter at Tatianinsky" class="album-cover">
 
 <a href="https://music.vk.com/link/Sryo7" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/36456626" class="external" target="_blank" rel="noopener">Yandex Music</a> | <a href="https://open.spotify.com/album/4dbvL3I5bgCXk66SAcaNAH" class="external" target="_blank" rel="noopener">Spotify</a>
 
