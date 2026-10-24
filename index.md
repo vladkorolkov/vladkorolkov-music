@@ -26,7 +26,7 @@ lang: ru
 Ехать в закат! Играю на гитарах.  
 <a href="https://vk.ru/music/playlist/-2000775941_20775941_e0d7ab54f4eb09cec6" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://open.spotify.com/track/6sLAkW2rLvZb2OZ29yzbY8?si=67fa8d5d53104189" class="external" target="_blank" rel="noopener">Spotify</a>
 
-<img src="https://i.scdn.co/image/ab67616d00001e02fb083e7fc8129ff490e1a04e" alt="Robert Elderson — TAKE ME BACK" class="album-cover">
+<img src="https://i.scdn.co/image/ab67616d00001e02a350c182b6a47753cda9e127" alt="Robert Elderson — TAKE ME BACK" class="album-cover">
 
 **Robert Elderson — TAKE ME BACK** [2024]  
 Светлый трек, играю на гитарках.  
