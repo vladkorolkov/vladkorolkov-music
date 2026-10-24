@@ -11,7 +11,7 @@ Recordings I have played on.
 <img src="https://vladkorolkov-music.ru/images/weelade-live-cover.jpg" alt="Weelade — Building Materials" class="album-cover">
 
 **Weelade — Building Materials** [2026]  
-<a href="https://vk.ru/audio33793035_456239263_b07f70cdcdb77d874f" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://disk.yandex.ru/d/8vIIzsOSylpwLQ" class="external" target="_blank" rel="noopener">Yandex</a>
+<a href="https://vk.ru/audio33793035_456239264_10f2b3573bd075c413" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://disk.yandex.ru/d/8vIIzsOSylpwLQ" class="external" target="_blank" rel="noopener">Yandex</a>
 
 <img src="https://vladkorolkov-music.ru/images/holotrop-message.jpg" alt="HOLOTROPNY — Soobshcheniye" class="album-cover">
 
