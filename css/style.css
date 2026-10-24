@@ -1,0 +1,125 @@
+:root {
+  color-scheme: light dark;
+  --black: #1b1212;
+  --white: #fff;
+  --gray: #4f4949;
+  --silver: #a4a0a0;
+  --platinum: #e1e0e0;
+  --red: #b22222;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --black: #e8e3e3;
+    --white: #1b1212;
+    --gray: #a49e9e;
+    --silver: #5a5454;
+    --platinum: #332b2b;
+    --red: #e06b6b;
+  }
+}
+
+body {
+  font-family: "CMU Serif", "Latin Modern Roman", "TeX Gyre Termes", Georgia, serif;
+  background-color: var(--white);
+  color: var(--black);
+  font-size: 1.05rem;
+  line-height: 1.89rem;
+  margin: 0;
+  padding: 2rem 0;
+}
+
+.wrapper {
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2.8rem;
+  padding-right: 2.8rem;
+  width: 46.62rem;
+  max-width: 100%;
+}
+
+@media all and (max-width: 46.62rem) {
+  .wrapper {
+    padding-left: 1.4rem;
+    padding-right: 1.4rem;
+    width: 100%;
+  }
+}
+
+a, a:visited {
+  color: inherit;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: var(--red);
+}
+
+h1, h2, h3 {
+  font-weight: normal;
+  clear: both;
+}
+
+h1 {
+  font-size: 2.1rem;
+  margin-bottom: 1.4rem;
+}
+
+h2 {
+  margin-top: 2.8rem;
+  font-size: 1.68rem;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.menu {
+  list-style: none;
+  padding-left: 0;
+}
+
+.menu li {
+  display: inline;
+  margin-right: 0.4rem;
+}
+
+.menu a {
+  text-decoration: none;
+}
+
+.menu a:hover,
+.menu .selected a {
+  color: var(--red);
+}
+
+.footer {
+  margin-top: 4rem;
+  font-size: 1.19rem;
+  color: var(--gray);
+  text-align: center;
+}
+
+blockquote {
+  border-left: 4px solid var(--silver);
+  margin-left: 2.1rem;
+  padding-left: 0.7rem;
+}
+
+code, pre {
+  font-family: "CMU Typewriter", "Courier New", monospace;
+}
+
+.subline {
+  color: var(--gray);
+  font-size: 1.19rem;
+  list-style: none;
+  padding-left: 0;
+}
+
+.subline li {
+  display: inline-block;
+  margin-right: 0.7rem;
+}
