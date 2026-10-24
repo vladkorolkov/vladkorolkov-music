@@ -38,4 +38,14 @@ lang: ru
 
 Альбом можно слушать везде, где вы слушаете музыку.
 
+---
+
+<img src="https://vladkorolkov-music.ru/images/paskha-v-tatianinskom.jpg" alt="Пасха в Татианинском" class="album-cover">
+
+<a href="https://music.vk.com/link/Sryo7" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/36456626" class="external" target="_blank" rel="noopener">Yandex Music</a> | <a href="https://open.spotify.com/album/4dbvL3I5bgCXk66SAcaNAH" class="external" target="_blank" rel="noopener">Spotify</a>
+
+И ещё один релиз — Пасхальный сборник!
+
+Композитор Кирилл Покореев специально написал для нашего хора произведение «Раскрой же сердце для чудес», в котором с хором играет моя супруга Катя на виолончели.
+
 <a href="https://vk.ru/choir_vinograd" class="external" target="_blank" rel="noopener">Молодёжный хор «Виноград» в VK</a>
