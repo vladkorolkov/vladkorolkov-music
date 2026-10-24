@@ -1,9 +1,54 @@
 ---
 layout: default
-title: Music
+title: Albums
 lang: en
 ---
 
-# Music
+# Albums
 
-Content will be added later.
+Recordings I have played on.
+
+<img src="https://vladkorolkov-music.ru/images/weelade-live-cover.jpg" alt="Weelade — Building Materials" class="album-cover">
+
+**Weelade — Building Materials** [2026]  
+<a href="https://vk.ru/audio33793035_456239263_b07f70cdcdb77d874f" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://disk.yandex.ru/d/8vIIzsOSylpwLQ" class="external" target="_blank" rel="noopener">Yandex</a>
+
+<img src="https://vladkorolkov-music.ru/images/holotrop-message.jpg" alt="HOLOTROPNY — Soobshcheniye" class="album-cover">
+
+**HOLOTROPNY — Soobshcheniye** [2026]  
+<a href="https://vk.ru/music/playlist/-209379412_9_35078983c72474559c" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/42072488" class="external" target="_blank" rel="noopener">Yandex Music</a>
+
+<img src="https://avatars.yandex.net/get-music-content/5413882/c992b0db.a.23702202-1/m200x200?webp=false" alt="Oksana Ferenchuk — K tebe" class="album-cover">
+
+**Oksana Ferenchuk — K tebe** [2022]  
+<a href="https://vk.com/audio474499227_456723470_993d888696df231a3e" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/23702202" class="external" target="_blank" rel="noopener">Yandex Music</a>
+
+<img src="https://avatars.yandex.net/get-music-content/10126140/b321b358.a.32210444-1/m200x200?webp=false" alt="Oksana Ferenchuk — V kosmos kak k sebe domoy" class="album-cover">
+
+**Oksana Ferenchuk — V kosmos kak k sebe domoy** [2021]  
+<a href="https://vk.com/music/album/-2000337874_21337874_2a55adb327c479e6fb" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/32210444" class="external" target="_blank" rel="noopener">Yandex Music</a>
+
+<img src="https://i.okcdn.ru/i?r=BYChNGnC5ICCFFD3u1L5CYeSJPF4xkqGHD3HM0WbfisjsF-DHMlYTZZj9X9n7_3JSz4hU9waH8HEzOzNZ0Ya4NXSnfNxzJ993E2FARDdAQ7E_fFqYi4QWrMxFC2jt46XC1hc0OtUka_bQleyXqRoXKw3QPedqknp-yf5vXnWzu0unZ0tBqAi_0z9VXL2CneYOLz7u6rFSgJerz4NmszbzUDGHA" alt="Daniil Kolesnik — Na Glubinu" class="album-cover">
+
+**Daniil Kolesnik — Na Glubinu** [2021]  
+<a href="https://vk.com/audio-2001456024_86456024" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/14739329/track/80455218" class="external" target="_blank" rel="noopener">Yandex Music</a>
+
+<img src="https://avatars.yandex.net/get-music-content/2810397/cce0a0a4.a.11977628-1/m200x200?webp=false" alt="Ph.Deep, Weelade — Diving In Microcosm" class="album-cover">
+
+**Ph.Deep, Weelade — Diving In Microcosm** [2020]  
+<a href="https://vk.com/music/album/-2000585675_8585675_297a71552384a3fa7d" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/11977628" class="external" target="_blank" rel="noopener">Yandex Music</a>
+
+<img src="https://avatars.yandex.net/get-music-content/118603/84d63361.a.8255938-1/m200x200?webp=false" alt="Katya Korolkova — Lyogkiye mysli" class="album-cover">
+
+**Katya Korolkova — Lyogkiye mysli** [2020]  
+<a href="https://vk.com/music/playlist/-101492393_24_3b05e23205e5f1bbb4" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/8255938" class="external" target="_blank" rel="noopener">Yandex Music</a>
+
+<img src="https://avatars.yandex.net/get-music-content/139444/01fda328.a.6535057-1/m200x200?webp=false" alt="Slavia — I" class="album-cover">
+
+**Slavia — I** [2019]  
+<a href="https://vk.com/music/album/-2000157932_4157932_f1e8bd2f473532e480" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/6535057" class="external" target="_blank" rel="noopener">Yandex Music</a>
+
+<img src="https://sun9-88.userapi.com/s/v1/if1/QpGIUpVty9sUak_8Fr7M87FZpbRH3X9Y9lYbKX5lJgP8ZQteES76wLxnhaStO3_1NTI4XeUu.jpg?size=200x200&quality=96&crop=0,151,1444,1444&ava=1" alt="Fontan, DGPB — live" class="album-cover">
+
+**Fontan, DGPB — live** [2018]  
+<a href="https://vk.com/audio33793035_456239075_e7d1b721ca6cb255b8" class="external" target="_blank" rel="noopener">VK</a>
