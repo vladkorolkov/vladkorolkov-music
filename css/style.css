@@ -161,3 +161,38 @@ code, pre {
   display: inline-block;
   margin-right: 0.7rem;
 }
+
+/* Album cover floated top-right */
+.album-cover {
+  float: right;
+  max-width: 180px;
+  width: 35%;
+  height: auto;
+  margin: 0 0 1rem 1.5rem;
+  border-radius: 4px;
+}
+
+@media all and (max-width: 46.62rem) {
+  .album-cover {
+    float: none;
+    display: block;
+    max-width: 240px;
+    width: 60%;
+    margin: 0 auto 1.5rem;
+  }
+}
+
+.listen-button {
+  display: inline-block;
+  margin-top: 1.5rem;
+  padding: 0.6rem 1.4rem;
+  background-color: var(--red);
+  color: var(--white) !important;
+  text-decoration: none !important;
+  border-radius: 4px;
+  font-size: 1.1rem;
+}
+
+.listen-button:hover {
+  opacity: 0.9;
+}
