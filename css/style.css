@@ -88,6 +88,7 @@ h2 {
 .menu {
   list-style: none;
   padding-left: 0;
+  margin: 0.5rem 0;
 }
 
 .menu li {
@@ -102,6 +103,11 @@ h2 {
 .menu a:hover,
 .menu .selected a {
   color: var(--red);
+}
+
+.lang-switch {
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
 }
 
 .footer {
