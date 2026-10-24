@@ -8,6 +8,8 @@ lang: ru
 
 <img src="https://vladkorolkov-music.ru/images/rozhdestvo-v-tatianinskom.jpg" alt="Рождество в Татианинском" class="album-cover">
 
+<a href="https://vk.ru/music/playlist/33793035_53" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/35102998?utm_source=web&utm_medium=copy_link" class="external" target="_blank" rel="noopener">Yandex Music</a> | <a href="https://open.spotify.com/album/2AM7As0oK74IpGySG6Mn4y?si=r53_uzGlRAaFydsHmPxv3w" class="external" target="_blank" rel="noopener">Spotify</a>
+
 Спродюсировал альбом с хоровыми произведениями, который называется «Рождество в Татианинском».
 
 Это был интересный опыт для меня. В этом альбоме можно насладиться звучанием хора в храме, исполняющего колядки и другие хоровые произведения.
@@ -41,4 +43,4 @@ lang: ru
 
 Альбом можно слушать везде, где вы слушаете музыку.
 
-<a href="https://open.spotify.com/album/2AM7As0oK74IpGySG6Mn4y" class="external" target="_blank" rel="noopener">Spotify</a> | <a href="https://vk.ru/choir_vinograd" class="external" target="_blank" rel="noopener">Молодёжный хор «Виноград» в VK</a>
+<a href="https://vk.ru/choir_vinograd" class="external" target="_blank" rel="noopener">Молодёжный хор «Виноград» в VK</a>
