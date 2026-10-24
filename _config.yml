@@ -1,0 +1,8 @@
+title: Vlad Korolkov
+description: Music and more
+url: https://vladkorolkov.github.io
+baseurl: /vladkorolkov-music
+markdown: kramdown
+theme: null
+plugins:
+  - jekyll-feed
