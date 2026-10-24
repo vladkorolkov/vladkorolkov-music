@@ -38,4 +38,14 @@ Once again I want to express my gratitude and delight to everyone I met while wo
 
 The album can be listened to wherever you listen to music.
 
+---
+
+<img src="https://vladkorolkov-music.ru/images/paskha-v-tatianinskom.jpg" alt="Easter at Tatianinsky" class="album-cover">
+
+<a href="https://music.vk.com/link/Sryo7" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/36456626" class="external" target="_blank" rel="noopener">Yandex Music</a> | <a href="https://open.spotify.com/album/4dbvL3I5bgCXk66SAcaNAH" class="external" target="_blank" rel="noopener">Spotify</a>
+
+And another release — the Easter collection!
+
+Composer Kirill Pokoreev specially wrote the piece “Raskroy zhe serdtse dlya chudes” (“Open Your Heart to Miracles”) for our choir, in which my wife Katya plays the cello with the choir.
+
 <a href="https://vk.ru/choir_vinograd" class="external" target="_blank" rel="noopener">Youth Choir “Vinograd” on VK</a>
