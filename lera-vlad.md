@@ -13,7 +13,7 @@ lang: ru
 Это был кавер на «3 сентября» на французском языке в стиле джаз-мануш.
 
 <p style="text-align: center;">
-<img src="/images/lera-vlad-kremlin.jpg" alt="Lera.Vlad в Кремле с Михаилом Шуфутинским" class="album-cover" style="float: none; max-width: 400px; width: 80%; margin: 1rem auto; display: block;">
+<img src="{{ '/images/lera-vlad-kremlin.jpg' | relative_url }}" alt="Lera.Vlad в Кремле с Михаилом Шуфутинским" class="album-cover" style="float: none; max-width: 400px; width: 80%; margin: 1rem auto; display: block;">
 </p>
 
 За эти годы успели поработать с лучшими организаторами в event-сфере и топовыми площадками.
