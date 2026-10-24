@@ -6,4 +6,39 @@ lang: en
 
 # Vinograd
 
-Content will be added later.
+<img src="https://vladkorolkov-music.ru/images/rozhdestvo-v-tatianinskom.jpg" alt="Christmas at Tatianinsky" class="album-cover">
+
+I produced an album of choral works called “Rozhdestvo v Tatianinskom” (Christmas at the Tatiana Church).
+
+It was an interesting experience for me. In this album you can enjoy the sound of a choir in a church performing carols and other choral pieces.
+
+Thanks to everyone involved:
+
+To the rector of the Tatiana Church, Fr. Dionysius (<a href="https://vk.ru/id65396859" class="external" target="_blank" rel="noopener">VK</a>) for the idea🔥
+
+To the regent of the youth choir Kristina Karpova-Skopintseva,  
+to the regent of the children’s choir Anna Tverdokhlebova,  
+to the regent of the main choir Marina Alekseenko  
+for the excellent work on preparing the programs and rehearsals with the choirs 🙌
+
+To all the singers! Guys, you are unreal 🔥🔥🔥
+
+To the sound engineers: Yegor Krishtopa and Kristina Khartiyan 🎛️
+
+And once again to Yegor Krishtopa — for mixing, mastering and rapid mental synchronization
+
+To Roma Selyanko for the cover 📸
+
+To the label Yug Zvuchit (<a href="https://vk.ru/ugzvuchit" class="external" target="_blank" rel="noopener">VK</a>) in the persons of:
+
+Alexander Kozhevin for the prompt preparation of the necessary documents and legal consultation🤯
+
+Director Alexey Pshenichkin for readiness, responsiveness, track delivery and contact with moderation
+
+We were a little late for Christmas
+
+Once again I want to express my gratitude and delight to everyone I met while working on this release and to everyone I have known for a long time!
+
+The album can be listened to wherever you listen to music.
+
+<a href="https://open.spotify.com/album/2AM7As0oK74IpGySG6Mn4y" class="external" target="_blank" rel="noopener">Spotify</a> | <a href="https://vk.ru/choir_vinograd" class="external" target="_blank" rel="noopener">Youth Choir “Vinograd” on VK</a>
