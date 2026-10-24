@@ -8,6 +8,8 @@ lang: en
 
 <img src="https://vladkorolkov-music.ru/images/rozhdestvo-v-tatianinskom.jpg" alt="Christmas at Tatianinsky" class="album-cover">
 
+<a href="https://vk.ru/music/playlist/33793035_53" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/35102998?utm_source=web&utm_medium=copy_link" class="external" target="_blank" rel="noopener">Yandex Music</a> | <a href="https://open.spotify.com/album/2AM7As0oK74IpGySG6Mn4y?si=r53_uzGlRAaFydsHmPxv3w" class="external" target="_blank" rel="noopener">Spotify</a>
+
 I produced an album of choral works called “Rozhdestvo v Tatianinskom” (Christmas at the Tatiana Church).
 
 It was an interesting experience for me. In this album you can enjoy the sound of a choir in a church performing carols and other choral pieces.
@@ -41,4 +43,4 @@ Once again I want to express my gratitude and delight to everyone I met while wo
 
 The album can be listened to wherever you listen to music.
 
-<a href="https://open.spotify.com/album/2AM7As0oK74IpGySG6Mn4y" class="external" target="_blank" rel="noopener">Spotify</a> | <a href="https://vk.ru/choir_vinograd" class="external" target="_blank" rel="noopener">Youth Choir “Vinograd” on VK</a>
+<a href="https://vk.ru/choir_vinograd" class="external" target="_blank" rel="noopener">Youth Choir “Vinograd” on VK</a>
