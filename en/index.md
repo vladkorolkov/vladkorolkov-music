@@ -8,12 +8,6 @@ lang: en
 
 Recordings I have played on.
 
-<img src="https://vladkorolkov-music.ru/images/weelade-live-cover.jpg" alt="Weelade — Building Materials" class="album-cover">
-
-**Weelade — Building Materials** [2026]  
-Improvisational mix of a priest’s sermon and Photek’s drum’n’bass.  
-<a href="https://vk.ru/audio33793035_456239264_10f2b3573bd075c413" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://disk.yandex.ru/d/8vIIzsOSylpwLQ" class="external" target="_blank" rel="noopener">Yandex</a>
-
 <img src="https://vladkorolkov-music.ru/images/holotrop-message.jpg" alt="HOLOTROPNY — Soobshcheniye" class="album-cover">
 
 **HOLOTROPNY — Soobshcheniye** [2026]  
@@ -49,12 +43,6 @@ Sensitive, gentle original jazz with folk elements. I play guitar everywhere her
 **Daniil Kolesnik — Na Glubinu** [2021]  
 Co-producer, guitarist. About self-knowledge and self-improvement.  
 <a href="https://vk.com/audio-2001456024_86456024" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/14739329/track/80455218" class="external" target="_blank" rel="noopener">Yandex Music</a>
-
-<img src="https://avatars.yandex.net/get-music-content/2810397/cce0a0a4.a.11977628-1/m200x200?webp=false" alt="Ph.Deep, Weelade — Diving In Microcosm" class="album-cover">
-
-**Ph.Deep, Weelade — Diving In Microcosm** [2020]  
-A spontaneous drum’n’bass album with writer, philosopher and musician Alexey Solovyov.  
-<a href="https://vk.com/music/album/-2000585675_8585675_297a71552384a3fa7d" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/11977628" class="external" target="_blank" rel="noopener">Yandex Music</a> | <a href="https://open.spotify.com/album/6wfPOKib2OnfqSNmdpiVb9" class="external" target="_blank" rel="noopener">Spotify</a>
 
 <img src="https://avatars.yandex.net/get-music-content/118603/84d63361.a.8255938-1/m200x200?webp=false" alt="Katya Korolkova — Lyogkiye mysli" class="album-cover">
 
