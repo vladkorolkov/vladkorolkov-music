@@ -38,6 +38,6 @@ Deep atmospheric track with nature's sounds. Single on Triangle Music Label.
 
 **Weelade — Flexible Calendar** [2019]  
 Single from 2019 (released January 15). 5:42.  
-<a href="https://open.spotify.com/album/5Q6LKghNUUuc90ybD2A9DV" class="external" target="_blank" rel="noopener">Spotify</a> | <a href="https://vk.ru/weelade" class="external" target="_blank" rel="noopener">VK</a>
+<a href="https://open.spotify.com/album/5Q6LKghNUUuc90ybD2A9DV" class="external" target="_blank" rel="noopener">Spotify</a> | <a href="https://vk.ru/audio-174386416_456239018_d4b7ccb9150f4b2fda" class="external" target="_blank" rel="noopener">VK</a>
 
-Weelade is my pseudonym for various electronic experiments, and soon I’ll release something that unexpectedly crossed with electronics. If you’re curious or simply want to support me, follow <a href="https://vk.ru/weelade" class="external" target="_blank" rel="noopener">vk.ru/weelade</a>
+I only maintain a page on VK, I'll be glad if you subscribe <a href="https://vk.ru/weelade" class="external" target="_blank" rel="noopener">vk.ru/weelade</a>
