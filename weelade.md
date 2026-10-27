@@ -38,6 +38,6 @@ lang: ru
 
 **Weelade — Flexible Calendar** [2019]  
 Сингл 2019 года (релиз 15 января). 5:42.  
-<a href="https://open.spotify.com/album/5Q6LKghNUUuc90ybD2A9DV" class="external" target="_blank" rel="noopener">Spotify</a> | <a href="https://vk.ru/weelade" class="external" target="_blank" rel="noopener">VK</a>
+<a href="https://open.spotify.com/album/5Q6LKghNUUuc90ybD2A9DV" class="external" target="_blank" rel="noopener">Spotify</a> | <a href="https://vk.ru/audio-174386416_456239018_d4b7ccb9150f4b2fda" class="external" target="_blank" rel="noopener">VK</a>
 
-Weelade — это мой псевдоним для различных электронных экспериментов, и я скоро выпущу кое-что, что неожиданно скрестилось с электроникой. Если любопытно или просто хочется поддержать — подписывайтесь <a href="https://vk.ru/weelade" class="external" target="_blank" rel="noopener">vk.ru/weelade</a>
+Веду только страницу в ВК, буду рад подписке <a href="https://vk.ru/weelade" class="external" target="_blank" rel="noopener">vk.ru/weelade</a>
