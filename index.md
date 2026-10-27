@@ -8,12 +8,6 @@ lang: ru
 
 Записи, в которых я принимал участие.
 
-<img src="https://vladkorolkov-music.ru/images/weelade-live-cover.jpg" alt="Weelade — Building Materials" class="album-cover">
-
-**Weelade — Building Materials** [2026]  
-Импровизационный микс проповеди священника и drum'n'bass от Photek.  
-<a href="https://vk.ru/audio33793035_456239264_10f2b3573bd075c413" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://disk.yandex.ru/d/8vIIzsOSylpwLQ" class="external" target="_blank" rel="noopener">Yandex</a>
-
 <img src="https://vladkorolkov-music.ru/images/holotrop-message.jpg" alt="ХОЛОТРОПНЫЙ — Сообщение" class="album-cover">
 
 **ХОЛОТРОПНЫЙ — Сообщение** [2026]  
@@ -49,12 +43,6 @@ lang: ru
 **Даниил Колесник — На Глубину** [2021]  
 Сопродюсер, гитарист. О самопознании и самосовершенствовании.  
 <a href="https://vk.com/audio-2001456024_86456024" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/14739329/track/80455218" class="external" target="_blank" rel="noopener">Yandex Music</a>
-
-<img src="https://avatars.yandex.net/get-music-content/2810397/cce0a0a4.a.11977628-1/m200x200?webp=false" alt="Ph.Deep, Weelade — Diving In Microcosm" class="album-cover">
-
-**Ph.Deep, Weelade — Diving In Microcosm** [2020]  
-Спонтанный драм-н-бейс альбом совместно с писателем, философом и музыкантом — Алексеем Соловьёвым.  
-<a href="https://vk.com/music/album/-2000585675_8585675_297a71552384a3fa7d" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/11977628" class="external" target="_blank" rel="noopener">Yandex Music</a> | <a href="https://open.spotify.com/album/6wfPOKib2OnfqSNmdpiVb9" class="external" target="_blank" rel="noopener">Spotify</a>
 
 <img src="https://avatars.yandex.net/get-music-content/118603/84d63361.a.8255938-1/m200x200?webp=false" alt="Катя Королькова — Лёгкие мысли" class="album-cover">
 
