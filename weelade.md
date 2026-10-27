@@ -28,4 +28,10 @@ lang: ru
 
 Это было спонтанное, чистое творчество — без грандиозных планов, заигрываний с алгоритмами рекомендаций и прочего.
 
+<img src="https://geo-media.beatport.com/image_size/1400x1400/17a82543-6c24-4ebe-bacb-fbcbcde20f95.jpg" alt="Weelade — Duskwood" class="album-cover">
+
+**Weelade — Duskwood** [2020]  
+Глубокий атмосферный трек с звуками природы. Сингл на Triangle Music Label.  
+<a href="https://open.spotify.com/album/5ufdlJx3dGvaJubL9DAuKc" class="external" target="_blank" rel="noopener">Spotify</a> | <a href="https://www.beatport.com/release/duskwood/3049919" class="external" target="_blank" rel="noopener">Beatport</a>
+
 Weelade — это мой псевдоним для различных электронных экспериментов, и я скоро выпущу кое-что, что неожиданно скрестилось с электроникой. Если любопытно или просто хочется поддержать — подписывайтесь <a href="https://vk.ru/weelade" class="external" target="_blank" rel="noopener">vk.ru/weelade</a>
