@@ -1,7 +1,7 @@
 title: Vlad Korolkov
 description: Music and more
-url: https://vladkorolkov.github.io
-baseurl: /vladkorolkov-music
+url: https://vladkorolkov-music.ru
+baseurl: ""
 markdown: kramdown
 theme: null
 plugins:
