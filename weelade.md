@@ -34,4 +34,10 @@ lang: ru
 Глубокий атмосферный трек с звуками природы. Сингл на Triangle Music Label.  
 <a href="https://open.spotify.com/album/5ufdlJx3dGvaJubL9DAuKc" class="external" target="_blank" rel="noopener">Spotify</a> | <a href="https://www.beatport.com/release/duskwood/3049919" class="external" target="_blank" rel="noopener">Beatport</a>
 
+<img src="https://i.scdn.co/image/ab67616d0000e1a363c0797d97db9896dbbce0ef" alt="Weelade — Flexible Calendar" class="album-cover">
+
+**Weelade — Flexible Calendar** [2019]  
+Сингл 2019 года (релиз 15 января). 5:42.  
+<a href="https://open.spotify.com/album/5Q6LKghNUUuc90ybD2A9DV" class="external" target="_blank" rel="noopener">Spotify</a> | <a href="https://vk.ru/weelade" class="external" target="_blank" rel="noopener">VK</a>
+
 Weelade — это мой псевдоним для различных электронных экспериментов, и я скоро выпущу кое-что, что неожиданно скрестилось с электроникой. Если любопытно или просто хочется поддержать — подписывайтесь <a href="https://vk.ru/weelade" class="external" target="_blank" rel="noopener">vk.ru/weelade</a>
