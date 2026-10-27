@@ -8,7 +8,7 @@ lang: en
 
 Recordings I have played on.
 
-<img src="https://vladkorolkov-music.ru/images/holotrop-message.jpg" alt="HOLOTROPNY — Soobshcheniye" class="album-cover">
+<img src="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e0287bb9371a09de33e7054677d" alt="HOLOTROPNY — Soobshcheniye" class="album-cover">
 
 **HOLOTROPNY — Soobshcheniye** [2026]  
 Smart, sharp and cutting rap. The guitar parts here are mine.  
