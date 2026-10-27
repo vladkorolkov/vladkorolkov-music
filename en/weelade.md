@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Electronic
+title: Weelade
 lang: en
 ---
 
-# Electronic
+# Weelade
 
 Under this name I occasionally create and release electronic music.
 
