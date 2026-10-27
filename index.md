@@ -8,7 +8,7 @@ lang: ru
 
 Записи, в которых я принимал участие.
 
-<img src="https://vladkorolkov-music.ru/images/holotrop-message.jpg" alt="ХОЛОТРОПНЫЙ — Сообщение" class="album-cover">
+<img src="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e0287bb9371a09de33e7054677d" alt="ХОЛОТРОПНЫЙ — Сообщение" class="album-cover">
 
 **ХОЛОТРОПНЫЙ — Сообщение** [2026]  
 Умный, хлёсткий и острый рэп. Здесь гитарные партии — мои.  
