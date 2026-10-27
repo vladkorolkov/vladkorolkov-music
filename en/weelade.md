@@ -28,4 +28,10 @@ Alexey once wrote to me with a proposal to record guitar parts for one of his tr
 
 It was spontaneous, pure creativity — without grand plans, attempts to court recommendation algorithms, or anything of the sort.
 
+<img src="https://geo-media.beatport.com/image_size/1400x1400/17a82543-6c24-4ebe-bacb-fbcbcde20f95.jpg" alt="Weelade — Duskwood" class="album-cover">
+
+**Weelade — Duskwood** [2020]  
+Deep atmospheric track with nature's sounds. Single on Triangle Music Label.  
+<a href="https://open.spotify.com/album/5ufdlJx3dGvaJubL9DAuKc" class="external" target="_blank" rel="noopener">Spotify</a> | <a href="https://www.beatport.com/release/duskwood/3049919" class="external" target="_blank" rel="noopener">Beatport</a>
+
 Weelade is my pseudonym for various electronic experiments, and soon I’ll release something that unexpectedly crossed with electronics. If you’re curious or simply want to support me, follow <a href="https://vk.ru/weelade" class="external" target="_blank" rel="noopener">vk.ru/weelade</a>
