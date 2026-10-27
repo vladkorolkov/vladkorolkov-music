@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Lera.Vlad
+title: Kremlin
 lang: en
 ---
 
-# Lera.Vlad
+# Kremlin
 
-Played for 12+ years in an acoustic cover duo with Lera Kolobova.
+Played for 12 years in an acoustic cover duo with Lera Kolobova.
 
-The cherry on top was a performance at the Kremlin on the same stage as Mikhail Shufutinsky.
+The climax was a performance at the Kremlin on the same stage as Mikhail Shufutinsky.
 
 It was a cover of “3 September” in French in the jazz manouche style.
 
