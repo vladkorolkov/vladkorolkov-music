@@ -34,4 +34,10 @@ It was spontaneous, pure creativity — without grand plans, attempts to court r
 Deep atmospheric track with nature's sounds. Single on Triangle Music Label.  
 <a href="https://open.spotify.com/album/5ufdlJx3dGvaJubL9DAuKc" class="external" target="_blank" rel="noopener">Spotify</a> | <a href="https://www.beatport.com/release/duskwood/3049919" class="external" target="_blank" rel="noopener">Beatport</a>
 
+<img src="https://i.scdn.co/image/ab67616d0000e1a363c0797d97db9896dbbce0ef" alt="Weelade — Flexible Calendar" class="album-cover">
+
+**Weelade — Flexible Calendar** [2019]  
+Single from 2019 (released January 15). 5:42.  
+<a href="https://open.spotify.com/album/5Q6LKghNUUuc90ybD2A9DV" class="external" target="_blank" rel="noopener">Spotify</a> | <a href="https://vk.ru/weelade" class="external" target="_blank" rel="noopener">VK</a>
+
 Weelade is my pseudonym for various electronic experiments, and soon I’ll release something that unexpectedly crossed with electronics. If you’re curious or simply want to support me, follow <a href="https://vk.ru/weelade" class="external" target="_blank" rel="noopener">vk.ru/weelade</a>
