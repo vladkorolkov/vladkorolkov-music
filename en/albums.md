@@ -56,7 +56,7 @@ We recorded kind songs with my beloved wife!
 Experimental folk — folk music with a bit of fusion/jazz. Almost entirely my arrangements, plus work as sound producer.  
 <a href="https://vk.com/music/album/-2000157932_4157932_f1e8bd2f473532e480" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/6535057" class="external" target="_blank" rel="noopener">Yandex Music</a> | <a href="https://open.spotify.com/album/33zRxHCkfRUnDNzhUG68Q1" class="external" target="_blank" rel="noopener">Spotify</a>
 
-<img src="https://sun9-88.userapi.com/s/v1/if1/QpGIUpVty9sUak_8Fr7M87FZpbRH3X9Y9lYbKX5lJgP8ZQteES76wLxnhaStO3_1NTI4XeUu.jpg?size=200x200&quality=96&crop=0,151,1444,1444&ava=1" alt="Fontan, DGPB — live" class="album-cover">
+<img src="{{ '/images/fontan-live.jpg' | relative_url }}" alt="Fontan, DGPB — live" class="album-cover">
 
 **Fontan, DGPB — live** [2018]  
 Live recording of an improvisational multimedia performance: music, dance, projections.  
