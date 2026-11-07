@@ -19,7 +19,7 @@ lang: ru
 <img src="https://avatars.yandex.net/get-music-content/2810397/cce0a0a4.a.11977628-1/m200x200?webp=false" alt="Ph.Deep, Weelade — Diving In Microcosm" class="album-cover">
 
 **Ph.Deep, Weelade — Diving In Microcosm** [2020]  
-Спонтанный драм-н-бейс альбом совместно с писателем, философом и музыкантом — Алексеем Соловьёвым.  
+Драм-н-бейс альбом совместно с писателем, философом и музыкантом — Алексеем Соловьёвым.  
 <a href="https://vk.com/music/album/-2000585675_8585675_297a71552384a3fa7d" class="external" target="_blank" rel="noopener">VK</a> | <a href="https://music.yandex.ru/album/11977628" class="external" target="_blank" rel="noopener">Yandex Music</a> | <a href="https://open.spotify.com/album/6wfPOKib2OnfqSNmdpiVb9" class="external" target="_blank" rel="noopener">Spotify</a>
 
 В далёкие уже ковидные времена довелось мне сделать спонтанный драм-н-бейс альбом совместно с писателем, философом и музыкантом — Алексеем Соловьёвым.
